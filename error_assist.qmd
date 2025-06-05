@@ -45,4 +45,3 @@ author: Omar Baba
 
 -   Other AI-enabled features
 
-## 
