@@ -1,0 +1,48 @@
+---
+title: "Error Assist on PCC"
+format: revealjs
+link-external-newwindow: true
+editor: visual
+author: Omar Baba
+---
+
+## What
+
+-   First AI-enabled feature for Posit Connect Cloud
+
+-   A WIP
+
+## Why
+
+-   An AI feature that delivers value to users
+
+-   Demonstrate investment in AI capabilities internally and to our customers
+
+-   Leverage the delivery model for PCC to iterate and release with high frequency
+
+## How
+
+-   AWS Bedrock agent running Claude 3.5 Sonnet
+
+-   Inputs: publishing logs, content ID
+
+## Demo
+
+-   [Posit Connect Cloud](https://13-add-error-assist-window-to-logs.preview.staging.connect.posit.cloud "Staging")
+-   [Observability](https://posit-hosted-vivid.datadoghq.com/llm/applications?fromUser=false&start=1748540094794&end=1749144894794&paused=false "LLM Observability")
+
+## Next
+
+-   Release EA
+
+-   Monitor the evaluations and run experiments
+
+    -   Additional inputs
+
+    -   Different models
+
+    -   Additional functionality
+
+-   Other AI-enabled features
+
+## 
