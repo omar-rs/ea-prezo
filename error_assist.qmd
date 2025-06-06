@@ -38,9 +38,15 @@ include-in-header:
 
 ## How
 
--   AWS Bedrock agent running Claude 3.5 Sonnet
+-   AWS Bedrock agents running Claude 3.5 Sonnet
 
--   Inputs: publishing logs, content ID
+-   Error assistant agent
+
+    -   Inputs: publishing logs, content ID
+
+-   Helpfulness evaluation agent
+
+    -   Evaluate the assistant's output on a helpfulness scale 1-5
 
 ## Demo
 
@@ -57,7 +63,7 @@ include-in-header:
 
     -   Different models
 
-    -   Additional functionality
+-   Additional functionality
 
 -   Other AI-enabled features
 
