@@ -24,7 +24,7 @@ include-in-header:
 
 ## What
 
--   First AI-enabled feature for Posit Connect Cloud
+-   First AI-enabled feature for Connect Cloud
 
 -   A WIP
 
@@ -34,7 +34,7 @@ include-in-header:
 
 -   Demonstrate investment in AI capabilities internally and to our customers
 
--   Leverage the delivery model for PCC to iterate and release with high frequency
+-   Leverage the delivery model for Connect Cloud to iterate and release with high frequency
 
 ## How
 
@@ -44,12 +44,12 @@ include-in-header:
 
 ## Demo
 
--   [Posit Connect Cloud](https://13-add-error-assist-window-to-logs.preview.staging.connect.posit.cloud "Staging")
+-   [Connect Cloud](https://13-add-error-assist-window-to-logs.preview.staging.connect.posit.cloud "Staging")
 -   [Observability](https://posit-hosted-vivid.datadoghq.com/llm/applications?fromUser=false&start=1748540094794&end=1749144894794&paused=false "LLM Observability")
 
 ## Next
 
--   Release EA
+-   Release Error Assistant
 
 -   Monitor the evaluations and run experiments
 
