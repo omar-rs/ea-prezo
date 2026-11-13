@@ -1,4 +1,3 @@
----
 title: "Error Assist on Connect Cloud"
 format: revealjs
 link-external-newwindow: true
@@ -57,15 +56,21 @@ include-in-header:
 
 -   Release Error Assistant
 
--   Monitor the evaluations and run experiments
+-   Monitor the evaluations
 
-    -   Additional inputs
+## Roadmap
 
-    -   Different models
+-   Improve the assistant
 
--   Additional functionality
+    -   Experiment with additional inputs and different models
 
--   Other AI-enabled features
+    -   Use evaluation results to guide iteration
+
+-   Expand capability
+
+    -   Add functionality to Error Assistant
+
+    -   Explore other AI-enabled features for Connect Cloud
 
 ## 
 
